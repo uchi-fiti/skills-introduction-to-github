@@ -1,1 +1,3 @@
 Welcome to my GitHub profile!
+My name is ... and I am currently studying CS at ...
+My current programming language is C and I look to forward to learn more about it as I know I am just a beginner.
